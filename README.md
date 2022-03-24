@@ -13,9 +13,9 @@ A aplicação contém as seguintes funcionalidades:
 
 ## Pré-requisitos
 #### Antes de começar, é bom ter instalado em sua maquina a seguinte ferramenta:
-- [x] [GIT](https://git-scm.com/)
-- [x] [VSCode](https://code.visualstudio.com/)
-- [x] [NodeJs](https://nodejs.org/en/)
+- [GIT](https://git-scm.com/)
+- [VSCode](https://code.visualstudio.com/)
+- [NodeJs](https://nodejs.org/en/)
 
 ### Rodando o Projeto 📖
 
